@@ -6,7 +6,7 @@ Ubuntu 22.04 환경에서 'kubeadm'과 'containerd, 'Calico'를 이용해서 Kub
 
 ## ✅ 구성 내용
 
-- Master & Worker NOde 직접 구성
+- Master & Worker Node 직접 구성
 - containerd를 CRI 사용
 - Calico CNI 설치 및 네트워크 구성
 - kubeadm을 통한 클러스터 초기화 및 조인
